@@ -9,7 +9,7 @@ public class Uri1003 {
         A = sc.nextInt();
         B = sc.nextInt();
 
-        System.out.println("PROD = "+(A*B));
+        System.out.println("SOMA = "+(A+B));
 
     }
 
